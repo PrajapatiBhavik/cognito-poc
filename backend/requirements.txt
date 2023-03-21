@@ -1,0 +1,11 @@
+boto3==1.24.32
+botocore==1.27.32
+jmespath==0.10.0
+python-dateutil==2.8.2
+python-dotenv==0.15.0
+s3transfer==0.6.0
+six==1.15.0
+urllib3==1.26.3
+flask
+requests
+flask_cors
